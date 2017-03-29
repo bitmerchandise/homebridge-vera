@@ -35,6 +35,10 @@ Once all the libraries are set, you can download the actual program:
 
 `npm install -g homebridge-vera`
 
+If npm has not been updated with the newest version, you can install directly from the URL by issuing the following command
+
+`npm install -g --unsafe-perm https://github.com/damianxd/homebridge-vera`
+
 Starting the APP
 ===
 **For Standalone version:**
